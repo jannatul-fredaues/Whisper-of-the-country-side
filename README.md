@@ -2,4 +2,4 @@
 It's a C-language-based computer graphics project.
 ## Preview
 
-![Home](assets/home.png)
+![Day](assets/day.jpg)
