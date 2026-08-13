@@ -1,2 +1,5 @@
 # Whisper-of-the-country-side
-It's a C language based Computer Graphics project.
+It's a C-language-based computer graphics project.
+## Preview
+
+![Home](assets/home.png)
