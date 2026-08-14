@@ -5,4 +5,4 @@ It's a C-language-based computer graphics project.
 ![Day](assets/day.jpg)
 ![Night](assets/night.jpg)
 ![Day_Rainy](assets/raniy.jpg)
-![Night Rainy](assets/night_rainy.jpg)
+![Night Rainy](assets/night_rain.jpg)
